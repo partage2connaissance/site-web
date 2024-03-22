@@ -66,6 +66,7 @@ function loadTitles() {
 
 // Fonction pour afficher les titres dans une liste HTML spécifique
 // Fonction pour afficher les titres dans une liste HTML spécifique
+// Fonction pour afficher les titres dans une liste HTML spécifique
 function displayTitles(data, listId) {
     const list = document.getElementById(listId);
     data.forEach(item => {
@@ -75,7 +76,7 @@ function displayTitles(data, listId) {
         // Créer un bouton pour ouvrir le lien "regard" dans une nouvelle page
         const regardButton = document.createElement('button');
         regardButton.textContent = "Regarder";
-        regardButton.className = "action-button"; // Ajoutez une classe au bouton
+        regardButton.classList.add("action-button"); // Ajoutez une classe au bouton
         
         regardButton.onclick = function() {
             window.open(item.regard, '_blank');
@@ -84,7 +85,7 @@ function displayTitles(data, listId) {
         // Créer un bouton pour télécharger le fichier
         const downloadButton = document.createElement('button');
         downloadButton.textContent = "Téléchargement";
-        downloadButton.className = "action-button"; // Ajoutez une classe au bouton
+        downloadButton.classList.add("action-button"); // Ajoutez une classe au bouton
         
         downloadButton.onclick = function() {
             window.open(item.download, '_blank');
@@ -96,7 +97,6 @@ function displayTitles(data, listId) {
         list.appendChild(listItem);
     });
 }
-
 
 // Appeler la fonction pour charger et afficher les titres au chargement de la page
 document.addEventListener('DOMContentLoaded', loadTitles);
