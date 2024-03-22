@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title id="pageTitle"></title>
+<title id="pageTitle">Partage de connaissance</title>
 </head>
 <body>
 
@@ -16,7 +16,6 @@
 function loadTitles() {
     const urlParams = new URLSearchParams(window.location.search);
     const matiere = urlParams.get('matiere');
-    document.getElementById('pageTitle').textContent = matiere; // Modifier le titre de la page
     document.getElementById('matiereTitle').textContent = matiere;
 
     // Charger la base de données JSON
