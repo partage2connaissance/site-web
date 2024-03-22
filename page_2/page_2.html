@@ -12,58 +12,41 @@
 <ul id="titlesList"></ul>
 
 <script>
-    function loadTitles() {
-        const urlParams = new URLSearchParams(window.location.search);
-        const matiere = urlParams.get('matiere');
-        document.getElementById('pageTitle').textContent = matiere;
-    
-        // Charger la base de données JSON
-        fetch('bdd.json')
-        .then(response => response.json())
-        .then(data => {
-            // Filtrer les données pour obtenir celles de la matière spécifiée
-            const matiereData = data.filter(item => item.cours === matiere);
-    
-            // Créer un objet pour stocker les titres par catégorie
-            const titlesByCategory = {
-                'Cours': [],
-                'Partiel': [],
-                'TD': [],
-                'Complémentaire': []
-            };
-    
-            // Organiser les titres par catégorie
-            matiereData.forEach(item => {
-                titlesByCategory[item.catégorie].push(item.title);
-            });
-    
-            // Afficher les titres dans les listes HTML correspondantes
-            for (const [category, titles] of Object.entries(titlesByCategory)) {
-                const categoryHeader = document.createElement('h2');
-                categoryHeader.textContent = category;
-                document.body.appendChild(categoryHeader);
-    
-                const titlesList = document.createElement('ul');
-                titles.forEach(title => {
-                    const listItem = document.createElement('li');
-                    listItem.textContent = title;
-                    titlesList.appendChild(listItem);
-                });
-                document.body.appendChild(titlesList);
-            }
-        })
-        .catch(error => {
-            console.error('Erreur lors du chargement des données JSON :', error);
+// Fonction pour charger et afficher les titres depuis la base de données JSON
+function loadTitles() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const matiere = urlParams.get('matiere');
+    document.getElementById('pageTitle').textContent = matiere; // Modifier le titre de la page
+
+    document.getElementById('matiereTitle').textContent = matiere;
+
+    // Charger la base de données JSON
+    // Charger la base de données JSON
+    fetch('bdd.json')
+    .then(response => response.json())
+    .then(data => {
+        // Filtrer les données pour obtenir celles de la matière spécifiée
+        const matiereData = data.filter(item => item.cours === matiere);
+
+        // Obtenir les titres des éléments filtrés
+        const titles = matiereData.map(item => item.title);
+
+        // Afficher les titres dans la liste HTML
+        const titlesList = document.getElementById('titlesList');
+        titles.forEach(title => {
+            const listItem = document.createElement('li');
+            listItem.textContent = title;
+            titlesList.appendChild(listItem);
         });
-    }
+    })
+    .catch(error => {
+        console.error('Erreur lors du chargement des données JSON :', error);
+});
+}
 
 // Appeler la fonction pour charger et afficher les titres au chargement de la page
 document.addEventListener('DOMContentLoaded', loadTitles);
 </script>
 
-    <h2>Cours</h2>
-    <h2>Partiel</h2>
-    <h2>TD</h2>
-    <h2>Complémentaire</h2>
 </body>
 </html>
