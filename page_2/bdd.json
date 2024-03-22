@@ -1,11 +1,25 @@
 [
     {
-        "title": "tomate",
-        "cours": "Mécanique des fluides"
+        "title": "tomate cours",
+        "cours": "Mécanique des fluides",
+        "catégorie": "Cours"
     },
 
     {
-        "title": "pomme",
-        "cours": "Thermodynamique"
+        "title": "tomate partiel",
+        "cours": "Mécanique des fluides",
+        "catégorie": "Partiel"
+    },
+
+    {
+        "title": "pomme partiel",
+        "cours": "Thermodynamique",
+        "catégorie": "Cours"
+    },
+
+    {
+        "title": "pomme partiel",
+        "cours": "Thermodynamique",
+        "catégorie": "Cours partiel"
     }
 ]
