@@ -1,14 +1,8 @@
-
-* {
-    padding: 0;
-    margin: 0;
-}
-
 body {
+    margin: 0;
     background-color: rgb(61, 61, 61); /* couleur de fond de base de la page web */
     font-family: 'Montserrat', sans-serif;
 }
-
 
 .topbar {
     display: flex;
@@ -18,7 +12,7 @@ body {
     padding: 14px 30px;
 }
 
-.topbar p {
+h1#matiereTitle {
     color: #fff;
     text-align: center;
     margin: 0 auto;
@@ -26,92 +20,46 @@ body {
     font-weight: 800;
 }
 
-.bouton a {
-    margin-left: 10px;
-    background-color: #24696e; /* Couleur de fond du bouton */
-    border: none; /* Supprime la bordure */
-    color: white; /* Couleur du texte */
-    padding: 5px 10px; /* Espacement à l'intérieur du bouton */
-    text-align: center; /* Centre le texte */
-    text-decoration: none; /* Supprime les soulignements */
-    display: inline-block; /* Affiche le bouton comme un élément en ligne */
-    font-size: 12px; /* Taille de la police */
-    font-weight: bold;
-    border-radius: 10px; /* Angles arrondis */
+section {
+    margin: 20px auto;
+    max-width: 800px;
 }
 
-.bouton a:hover {
-    background-color: #45a049; /* Changement de couleur au survol */
-}
-
-.spotify-playlists {
-    padding: 20px 40px;
-}
-
-.spotify-playlists h2 {
+h2 {
     color: #ffffff;
-    font-size: 22px;
-    margin-bottom: 20px;
 }
 
-.spotify-playlists .list {
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
     display: flex;
-    flex-wrap: nowrap; /* Évite le retour à la ligne des éléments */
-    gap: 20px;
-    overflow-x: auto;
-    overflow-y: hidden;
-    white-space: nowrap;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
+    justify-content: space-between;
 }
 
-.spotify-playlists .list::-webkit-scrollbar {
-    display: none; /* Masque la barre de défilement WebKit (Chrome, Safari) */
-}
-
-.spotify-playlists .list .item {
-    flex: 0 0 160px; /* La taille fixe de chaque élément est de 160px */
-    padding: 15px;
-    background-color: #181818;
-    border-radius: 6px;
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
     cursor: pointer;
-    transition: all ease 0.4s;
-    overflow: hidden;
-    white-space: normal; /* Permettre le retour à la ligne du texte */
 }
 
-.spotify-playlists .list .item:hover {
-    background-color: #4b4b4b;
+button:hover {
+    background-color: #0056b3;
 }
 
-
-
-.spotify-playlists .list .item img {
-    width: 100%;
-    border-radius: 6px;
-    margin-bottom: 10px;
+li button {
+    margin-right: 10px; /* Ajoute une marge à droite pour séparer les boutons */
 }
 
-
-.spotify-playlists .list .item h4 {
-    color: #ffffff;
-    font-size: 14px;
-    margin-bottom: 10px;
-    font-weight: 600;
-    text-align: center;
+li button:last-child {
+    margin-right: 0; /* Supprime la marge à droite pour le dernier bouton dans chaque élément li */
 }
-
-.spotify-playlists .list .item a {
-    text-decoration: none;
-    color: #989898;
-    font-size: 12px;
-    line-height: 20px;
-    font-weight: 500;
-
-}
-
-.spotify-playlists hr {
-    margin: 70px 0px 0px;
-    border-color: #636363;
-}
-
