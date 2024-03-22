@@ -9,7 +9,26 @@
 
 <h1 id="matiereTitle"></h1>
 
-<ul id="titlesList"></ul>
+<!-- Ajoutez des sections pour chaque catégorie -->
+<section id="coursSection">
+    <h2>Cours</h2>
+    <ul id="coursList"></ul>
+</section>
+
+<section id="partielSection">
+    <h2>Partiel</h2>
+    <ul id="partielList"></ul>
+</section>
+
+<section id="tdSection">
+    <h2>TD</h2>
+    <ul id="tdList"></ul>
+</section>
+
+<section id="complementaireSection">
+    <h2>Complémentaire</h2>
+    <ul id="complementaireList"></ul>
+</section>
 
 <script>
 // Fonction pour charger et afficher les titres depuis la base de données JSON
@@ -21,36 +40,43 @@ function loadTitles() {
     document.getElementById('matiereTitle').textContent = matiere;
 
     // Charger la base de données JSON
-    // Charger la base de données JSON
     fetch('bdd.json')
     .then(response => response.json())
     .then(data => {
         // Filtrer les données pour obtenir celles de la matière spécifiée
         const matiereData = data.filter(item => item.cours === matiere);
 
-        // Obtenir les titres des éléments filtrés
-        const titles = matiereData.map(item => item.title);
+        // Séparer les données en fonction de la catégorie
+        const coursData = matiereData.filter(item => item.catégorie === 'Cours');
+        const partielData = matiereData.filter(item => item.catégorie === 'Partiel');
+        const tdData = matiereData.filter(item => item.catégorie === 'TD');
+        const complementaireData = matiereData.filter(item => item.catégorie === 'Complémentaire');
 
-        // Afficher les titres dans la liste HTML
-        const titlesList = document.getElementById('titlesList');
-        titles.forEach(title => {
-            const listItem = document.createElement('li');
-            listItem.textContent = title;
-            titlesList.appendChild(listItem);
-        });
+        // Afficher les titres dans les listes correspondantes
+        displayTitles(coursData, 'coursList');
+        displayTitles(partielData, 'partielList');
+        displayTitles(tdData, 'tdList');
+        displayTitles(complementaireData, 'complementaireList');
     })
     .catch(error => {
         console.error('Erreur lors du chargement des données JSON :', error);
-});
+    });
+}
+
+// Fonction pour afficher les titres dans une liste HTML spécifique
+function displayTitles(data, listId) {
+    const titles = data.map(item => item.title);
+    const list = document.getElementById(listId);
+    titles.forEach(title => {
+        const listItem = document.createElement('li');
+        listItem.textContent = title;
+        list.appendChild(listItem);
+    });
 }
 
 // Appeler la fonction pour charger et afficher les titres au chargement de la page
 document.addEventListener('DOMContentLoaded', loadTitles);
 </script>
 
-    <h2>Cours</h2>
-    <h2>Partiel</h2>
-    <h2>TD</h2>
-    <h2>Complémentaire</h2>
 </body>
 </html>
