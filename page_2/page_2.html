@@ -7,19 +7,24 @@
 </head>
 <body>
 
-<h1>Liste des titres depuis la base de données JSON</h1>
+<h1 id="matiereTitle">Titre de la Matière</h1>
 
 <ul id="titlesList"></ul>
 
 <script>
 // Fonction pour charger et afficher les titres depuis la base de données JSON
 function loadTitles() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const matiere = urlParams.get('matiere');
+    document.getElementById('matiereTitle').textContent = matiere;
+
     // Charger la base de données JSON
     fetch('bdd.json')
     .then(response => response.json())
     .then(data => {
-        // Récupérer la liste des titres depuis les données JSON
-        const titles = data.map(item => item.title);
+        // Supposons que vos données JSON sont organisées comme suit :
+        // { "Mécanique des fluides": [...], "Thermodynamique": [...] }
+        const titles = data[matiere].map(item => item.title);
         
         // Afficher les titres dans la liste HTML
         const titlesList = document.getElementById('titlesList');
