@@ -12,6 +12,11 @@ body {
     padding: 14px 30px;
 }
 
+button {
+    display: block;
+    margin-bottom: 5px; /* Ajustez la marge selon vos préférences */
+}
+
 h1#matiereTitle {
     color: #fff;
     text-align: center;
