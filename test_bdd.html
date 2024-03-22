@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Affichage des titres depuis une base de données JSON</title>
+</head>
+<body>
+
+<h1>Liste des titres depuis la base de données JSON</h1>
+
+<ul id="titlesList"></ul>
+
+<script>
+// Fonction pour charger et afficher les titres depuis la base de données JSON
+function loadTitles() {
+    // Charger la base de données JSON
+    fetch('bdd.json')
+    .then(response => response.json())
+    .then(data => {
+        // Récupérer la liste des titres depuis les données JSON
+        const titles = data.map(item => item.title);
+        
+        // Afficher les titres dans la liste HTML
+        const titlesList = document.getElementById('titlesList');
+        titles.forEach(title => {
+            const listItem = document.createElement('li');
+            listItem.textContent = title;
+            titlesList.appendChild(listItem);
+        });
+    })
+    .catch(error => {
+        console.error('Erreur lors du chargement des données JSON :', error);
+    });
+}
+
+// Appeler la fonction pour charger et afficher les titres au chargement de la page
+document.addEventListener('DOMContentLoaded', loadTitles);
+</script>
+
+</body>
+</html>
