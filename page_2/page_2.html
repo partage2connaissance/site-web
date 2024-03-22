@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Affichage des titres depuis une base de données JSON</title>
+<title id="pageTitle">Affichage des titres depuis une base de données JSON</title>
 </head>
 <body>
 
@@ -16,6 +16,9 @@
 function loadTitles() {
     const urlParams = new URLSearchParams(window.location.search);
     const matiere = urlParams.get('matiere');
+    const pageTitle = urlParams.get('pageTitle'); // Récupérer le titre de la page depuis l'URL
+    document.getElementById('pageTitle').textContent = pageTitle; // Modifier le titre de la page
+
     document.getElementById('matiereTitle').textContent = matiere;
 
     // Charger la base de données JSON
