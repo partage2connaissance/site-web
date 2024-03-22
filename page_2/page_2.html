@@ -71,14 +71,22 @@ function displayTitles(data, listId) {
         listItem.textContent = item.title;
         
         // Créer un bouton pour ouvrir le lien "regard" dans une nouvelle page
-        const button = document.createElement('button');
-        button.textContent = "Regarder";
-        button.onclick = function() {
+        const regardButton = document.createElement('button');
+        regardButton.textContent = "Regarder";
+        regardButton.onclick = function() {
             window.open(item.regard, '_blank');
         };
         
-        // Ajouter le bouton à droite du titre
-        listItem.appendChild(button);
+        // Créer un bouton pour télécharger le fichier
+        const downloadButton = document.createElement('button');
+        downloadButton.textContent = "Téléchargement";
+        downloadButton.onclick = function() {
+            window.open(item.download, '_blank');
+        };
+        
+        // Ajouter les boutons à droite du titre
+        listItem.appendChild(regardButton);
+        listItem.appendChild(downloadButton);
         list.appendChild(listItem);
     });
 }
