@@ -65,11 +65,20 @@ function loadTitles() {
 
 // Fonction pour afficher les titres dans une liste HTML spécifique
 function displayTitles(data, listId) {
-    const titles = data.map(item => item.title);
     const list = document.getElementById(listId);
-    titles.forEach(title => {
+    data.forEach(item => {
         const listItem = document.createElement('li');
-        listItem.textContent = title;
+        listItem.textContent = item.title;
+        
+        // Créer un bouton pour ouvrir le lien "regard" dans une nouvelle page
+        const button = document.createElement('button');
+        button.textContent = "Regarder";
+        button.onclick = function() {
+            window.open(item.regard, '_blank');
+        };
+        
+        // Ajouter le bouton à droite du titre
+        listItem.appendChild(button);
         list.appendChild(listItem);
     });
 }

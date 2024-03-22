@@ -2,24 +2,28 @@
     {
         "title": "tomate cours",
         "cours": "Mécanique des fluides",
-        "catégorie": "Cours"
+        "catégorie": "Cours",
+        "regard": "https://drive.google.com/file/d/1QI7jvAzp5GVLJZAnNQTAsq7GoLWvzD_p/view?usp=drive_link"
     },
 
     {
         "title": "tomate partiel",
         "cours": "Mécanique des fluides",
-        "catégorie": "Partiel"
+        "catégorie": "Partiel",
+        "regard": "https://drive.google.com/file/d/1QI7jvAzp5GVLJZAnNQTAsq7GoLWvzD_p/view?usp=drive_link"
     },
 
     {
         "title": "pomme cours",
         "cours": "Thermodynamique",
-        "catégorie": "Cours"
+        "catégorie": "Cours",
+        "regard": "https://drive.google.com/file/d/1QI7jvAzp5GVLJZAnNQTAsq7GoLWvzD_p/view?usp=drive_link"
     },
 
     {
         "title": "pomme partiel",
         "cours": "Thermodynamique",
-        "catégorie": "Partiel"
+        "catégorie": "Partiel",
+        "regard": "https://drive.google.com/file/d/1QI7jvAzp5GVLJZAnNQTAsq7GoLWvzD_p/view?usp=drive_link"
     }
 ]
