@@ -3,57 +3,36 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title id="pageTitle">Affichage des titres depuis une base de données JSON</title>
+<title id="pageTitle"></title>
 </head>
 <body>
 
-<h1 id="matiereTitle">Titre de la Matière</h1>
+<h1 id="matiereTitle"></h1>
 
-<div id="categoriesList"></div>
+<ul id="titlesList"></ul>
 
 <script>
 // Fonction pour charger et afficher les titres depuis la base de données JSON
 function loadTitles() {
     const urlParams = new URLSearchParams(window.location.search);
     const matiere = urlParams.get('matiere');
-    const pageTitle = urlParams.get('pageTitle'); // Récupérer le titre de la page depuis l'URL
-    document.getElementById('pageTitle').textContent = pageTitle; // Modifier le titre de la page
-
+    document.getElementById('pageTitle').textContent = matiere; // Modifier le titre de la page
     document.getElementById('matiereTitle').textContent = matiere;
 
     // Charger la base de données JSON
     fetch('bdd.json')
     .then(response => response.json())
     .then(data => {
-        // Organiser les éléments par catégorie
-        const categories = {
-            'Cours': [],
-            'Partiel': [],
-            'TD': [],
-            'Complément': []
-        };
-
-        // Remplir les catégories avec les éléments correspondants
-        data.forEach(item => {
-            categories[item.categorie].push(item.title);
-        });
-
-        // Afficher les catégories et les titres dans le document HTML
-        const categoriesList = document.getElementById('categoriesList');
-        Object.entries(categories).forEach(([category, titles]) => {
-            // Ajouter un titre pour la catégorie
-            const categoryTitle = document.createElement('h2');
-            categoryTitle.textContent = category;
-            categoriesList.appendChild(categoryTitle);
-
-            // Ajouter les titres de la catégorie dans une liste
-            const titlesList = document.createElement('ul');
-            titles.forEach(title => {
-                const listItem = document.createElement('li');
-                listItem.textContent = title;
-                titlesList.appendChild(listItem);
-            });
-            categoriesList.appendChild(titlesList);
+        // Supposons que vos données JSON sont organisées comme suit :
+        // { "Mécanique des fluides": [...], "Thermodynamique": [...] }
+        const titles = data[matiere].map(item => item.title);
+        
+        // Afficher les titres dans la liste HTML
+        const titlesList = document.getElementById('titlesList');
+        titles.forEach(title => {
+            const listItem = document.createElement('li');
+            listItem.textContent = title;
+            titlesList.appendChild(listItem);
         });
     })
     .catch(error => {
