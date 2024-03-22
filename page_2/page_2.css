@@ -12,15 +12,12 @@ body {
     padding: 14px 30px;
 }
 
-button {
+/*button {
     display: block;
-    margin-bottom: 5px; /* Ajustez la marge selon vos préférences */
-}
+    margin-bottom: 5px; /* Ajustez la marge selon vos préférences
+}*/
 
-.regardButton {
-    display: block;
-    margin-bottom: 5px; /* Ajustez la marge selon vos préférences */
-}
+
 
 h1#matiereTitle {
     color: #fff;
