@@ -1,5 +1,6 @@
 [
     {
+        "docID": 1,
         "title": "tomate cours",
         "cours": "Mécanique des fluides",
         "catégorie": "Cours",
@@ -7,6 +8,7 @@
     },
 
     {
+        "docID": 2,
         "title": "tomate partiel",
         "cours": "Mécanique des fluides",
         "catégorie": "Partiel",
@@ -14,6 +16,7 @@
     },
 
     {
+        "docID": 3,
         "title": "pomme cours",
         "cours": "Thermodynamique",
         "catégorie": "Cours",
@@ -21,6 +24,7 @@
     },
 
     {
+        "docID": 4,
         "title": "pomme partiel",
         "cours": "Thermodynamique",
         "catégorie": "Partiel",
