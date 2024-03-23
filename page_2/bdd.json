@@ -1,4 +1,7 @@
 [
+	{
+		"PMS": "bizarre de le nom des TD / manque sujet en anglais"
+	},
 
 	{
 		"docID": 1,
@@ -783,7 +786,7 @@
 	{
 		"docID": 79,
 		"cours": "Physique des Matériaux Solides",
-		"title": "Cours PowerPoint n°3 equation de mouvement",
+		"title": "Cours PowerPoint n°3 equation de mouvement v2",
 		"catégorie": "Cours",
 		"type": "pdf",
 		"regard": "https://drive.google.com/file/d/1OOLTZij5WDi6Zl6DhC-3WiZA7qZANJPN/view?usp=drive_link", 
@@ -793,12 +796,241 @@
 	{
 		"docID": 80,
 		"cours": "Physique des Matériaux Solides",
-		"title": "Cours PowerPoint n°3 equation de mouvement",
+		"title": "Cours PowerPoint n°3 equation de mouvement v3",
 		"catégorie": "Cours",
 		"type": "pdf",
 		"regard": "https://drive.google.com/file/d/10WzmR4QVFwZ3E6THyr7WDJfJm_aW3xAt/view?usp=drive_link", 
 		"download": "https://drive.google.com/uc?export=download&id=10WzmR4QVFwZ3E6THyr7WDJfJm_aW3xAt"
-	}
+	},
 
+	{
+		"docID": 81,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Cours PowerPoint n°2 ",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1-bvKbop0gvHzvF5KYiFObxHzJuR3kt7k/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1-bvKbop0gvHzvF5KYiFObxHzJuR3kt7k"
+	},
+
+	{
+		"docID": 82,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Cours PowerPoint n°1",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/drive/folders/185YeZLXyZrktAnvEqXcnHUUDP1StOYR0", 
+		"download": "https://drive.google.com/uc?export=download&id=1BRxFBDyIzp8GO6SsuT5Bz8sNx7lL0QEZ"
+	},
+
+	{
+		"docID": 83,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Cours PowerPoint n°1 et n°2",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/15BiIZ1rfEQwMGVauww04Nzcyv3eqC3lv/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=15BiIZ1rfEQwMGVauww04Nzcyv3eqC3lv"
+	},
+
+	{
+		"docID": 84,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Cours PowerPoint n°1 et n°2 v2",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/19zb1MJFS0va2cOO3li7xX-Mr8xeNCeQp/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=19zb1MJFS0va2cOO3li7xX-Mr8xeNCeQp"
+	},
+
+	{
+		"docID": 85,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Cours PowerPoint n°1 et n°2 v2",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/19zb1MJFS0va2cOO3li7xX-Mr8xeNCeQp/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=19zb1MJFS0va2cOO3li7xX-Mr8xeNCeQp"
+	},
+
+	{
+		"docID": 86,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Cours PowerPoint la diffraction",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1XJ9if5kqkUijEyEhcfc3Fwy7WF2Ch4HI/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1XJ9if5kqkUijEyEhcfc3Fwy7WF2Ch4HI"
+	},
+
+	{
+		"docID": 87,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Cours PowerPoint la diffraction",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1MzMB9Vy-nYZhKxsqURAdLrxnYssM7SaX/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1MzMB9Vy-nYZhKxsqURAdLrxnYssM7SaX"
+	},
+
+	{
+		"docID": 88,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet 25/06/2014 avec énoncé et correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1PbWFrJ7CmxxP5lqBKAwpTUfb-bEt38vn/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1PbWFrJ7CmxxP5lqBKAwpTUfb-bEt38vn"
+	},
+
+	{
+		"docID": 89,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet 20/12/2019 avec énoncé et correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1n0u30ST2GgenkOgQNzUC0zkaxlMLEPAb/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1n0u30ST2GgenkOgQNzUC0zkaxlMLEPAb"
+	},
+
+	{
+		"docID": 90,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet 20/12/2018 avec énoncé",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1xe1qMjl81rEZ2CAnXDdIFxEqPwOjqLlG/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1xe1qMjl81rEZ2CAnXDdIFxEqPwOjqLlG"
+	},
+
+	{
+		"docID": 90,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet 20/12/2018 avec énoncé et correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1u0oOzMPQcjvhqdCFyVIHhsWLCq6KUtsA/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1u0oOzMPQcjvhqdCFyVIHhsWLCq6KUtsA"
+	},
+
+	{
+		"docID": 91,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet 19/02/2019 avec énoncé",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1tsH51s-39_TFrVv3-h_-B_-Bc2-AcZD9/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1tsH51s-39_TFrVv3-h_-B_-Bc2-AcZD9"
+	},
+
+	{
+		"docID": 92,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet 19/02/2019 avec correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/188TUKda7d3LwyAaAHGx5ZLGx7Az8JQQI/view?usp=drive_linkk", 
+		"download": "https://drive.google.com/uc?export=download&id=188TUKda7d3LwyAaAHGx5ZLGx7Az8JQQI"
+	},
+
+	{
+		"docID": 93,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet 15/12/2015 avec énoncé correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1eyK8svy61ppDn0GrcC929dpmqBuNoN4e/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1eyK8svy61ppDn0GrcC929dpmqBuNoN4e"
+	},
+
+	{
+		"docID": 94,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet n°1 avec énoncé correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1G_JjNFaL-L-NP_2t1haKwxh9RSNdpuL5/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1G_JjNFaL-L-NP_2t1haKwxh9RSNdpuL5"
+	},
+
+	{
+		"docID": 95,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet n°2 avec énoncé correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1RDpwOLiweoQEZD_eF_7FKM00Cy-E_tOR/view?usp=drive_links", 
+		"download": "https://drive.google.com/uc?export=download&id=1RDpwOLiweoQEZD_eF_7FKM00Cy-E_tOR"
+	},
+
+	{
+		"docID": 96,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet n°3 avec énoncé correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1QTwsr6TuZdXaOQmwFEKxAkEZBWnvdSR8/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1QTwsr6TuZdXaOQmwFEKxAkEZBWnvdSR8"
+	},
+
+	{
+		"docID": 97,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet n°4 avec énoncé correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1dHsgS_aWOE4FX2fnpwniK5S8WMG4g656/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1dHsgS_aWOE4FX2fnpwniK5S8WMG4g656"
+	},
+
+	{
+		"docID": 98,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet n°5 avec énoncé correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1eoGX5J6RTG4CwA2kGyKfT04VrlvqhPMr/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1eoGX5J6RTG4CwA2kGyKfT04VrlvqhPMr"
+	},
+
+	{
+		"docID": 99,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet n°6 avec énoncé correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1bnqT1h5_AUsCDjkSE82uTOBZBsHDhA-V/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1bnqT1h5_AUsCDjkSE82uTOBZBsHDhA-V"
+	},
+
+	{
+		"docID": 100,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet n°7 avec énoncé correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1Ex58d6xbd3gO34kDKnKbzzqD4Iw77xVd/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1Ex58d6xbd3gO34kDKnKbzzqD4Iw77xVd"
+	},
+
+	{
+		"docID": 101,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet n°7 avec énoncé correction",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1dF9CCEHutulAX1blYOmqfPMBR6fapY0N/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1dF9CCEHutulAX1blYOmqfPMBR6fapY0N"
+	},
+
+	{
+		"docID": 102,
+		"cours": "Physique des Matériaux Solides",
+		"title": "sujet n°7 avec énoncé correction",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1dF9CCEHutulAX1blYOmqfPMBR6fapY0N/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1dF9CCEHutulAX1blYOmqfPMBR6fapY0N"
+	},
 
 ]
