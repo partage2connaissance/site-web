@@ -1258,5 +1258,227 @@
 		"type": "pdf",
 		"regard": "https://drive.google.com/file/d/1fv_Vy3SZinGjYocIOmujfj5VwFHllEZF/view?usp=drive_link", 
 		"download": "https://drive.google.com/uc?export=download&id=1fv_Vy3SZinGjYocIOmujfj5VwFHllEZF"
+	},
+
+	{
+		"docID": 125,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Cours version 2024, S.Drapier, G.Kermouche, N.Moulin",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1P37bxqvckrT0XaMMyu9b0Gg9i1VW8GPa/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1P37bxqvckrT0XaMMyu9b0Gg9i1VW8GPa"
+	},
+
+	{
+		"docID": 126,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Cours version 2021, S.Drapier, G.Kermouche, N.Moulin",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1vAfJq4nR5oSIhMxVAv9GIJ8EY3_FpdNo/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1vAfJq4nR5oSIhMxVAv9GIJ8EY3_FpdNo"
+	},
+
+	{
+		"docID": 127,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Cours PowerPoint C1: introduction et cinématique",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/16OBDr_bnxRiuYgW0Q5o4xMuv0eroDvFG/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=16OBDr_bnxRiuYgW0Q5o4xMuv0eroDvFG"
+	},
+
+	{
+		"docID": 128,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Cours PowerPoint C2: déformations",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1meBGIc0-gt0ip3xYDFguuSOJphgg3WBj/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1meBGIc0-gt0ip3xYDFguuSOJphgg3WBj"
+	},
+
+	{
+		"docID": 129,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Cours PowerPoint C3: Etude des Contraintes",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1TkrOmP8LLmuZRMq-bHpv1FnM_QHoFNDl/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1TkrOmP8LLmuZRMq-bHpv1FnM_QHoFNDl"
+	},
+
+	{
+		"docID": 130,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Cours PowerPoint C4: Solides déformables élastiques",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/11n7Dj5mC3OLCQ9scp7E0yqzTAnjguTqw/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=11n7Dj5mC3OLCQ9scp7E0yqzTAnjguTqw"
+	},
+
+	{
+		"docID": 131,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Cours PowerPoint C5: Principes Variationnels",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1TfJTAI_h1Sxrikw3qvMmTR4OZU3HvL5K/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1TfJTAI_h1Sxrikw3qvMmTR4OZU3HvL5K"
+	},
+
+	{
+		"docID": 132,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Note de cours chapitre 1",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1_r-dzjMgSOeKXi4LUTFVnWtcxhrShi8L/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1_r-dzjMgSOeKXi4LUTFVnWtcxhrShi8L"
+	},
+
+	{
+		"docID": 133,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Note de cours chapitre 2",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1d820FDrRQ-1Q4xfDsFKv3KFpIgzo5Iyz/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1d820FDrRQ-1Q4xfDsFKv3KFpIgzo5Iyz"
+	},
+
+	{
+		"docID": 134,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Note de cours chapitre 3",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1oZt-cLIfPFe0xVKuQOHmiPSiRJqFLdon/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1oZt-cLIfPFe0xVKuQOHmiPSiRJqFLdon"
+	},
+
+	{
+		"docID": 135,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Note de cours chapitre 4",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1_0dgMmVxCvO_bcaN85A864yu8t16EUpD/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1_0dgMmVxCvO_bcaN85A864yu8t16EUpD"
+	},
+
+	{
+		"docID": 136,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Note de cours chapitre 6",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1weDQ8NQihTOZwwXIxsMp8wTrBDh7pzyk/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1weDQ8NQihTOZwwXIxsMp8wTrBDh7pzyk"
+	},
+
+	{
+		"docID": 137,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "Note de cours chapitre 7",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1_4wFnhsAOqnGyLlDkvyceaem8WVdB8Eb/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1_4wFnhsAOqnGyLlDkvyceaem8WVdB8Eb"
+	},
+
+	{
+		"docID": 138,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "TD n°1 sujet et correction",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1Jn_NIxSdMB85mbNmhF60Om4ZuTBWYAzY/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1Jn_NIxSdMB85mbNmhF60Om4ZuTBWYAzY"
+	},
+
+	{
+		"docID": 139,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "TD n°1 sujet et correction v2",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1i0c3sCUZebQ1LJds7hVbB4W1wMQTiOtT/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1i0c3sCUZebQ1LJds7hVbB4W1wMQTiOtT"
+	},
+
+	{
+		"docID": 140,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "TD n°2 sujet et correction",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/19hprSrauvhibV5a14vpgOxrMvR_16fnZ/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=19hprSrauvhibV5a14vpgOxrMvR_16fnZ"
+	},
+
+	{
+		"docID": 141,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "TD n°3 correction",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1Eb1YYXj2UgNbfkXMtVVZOUfbBhGS7Qh2/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1Eb1YYXj2UgNbfkXMtVVZOUfbBhGS7Qh2"
+	},
+
+	{
+		"docID": 142,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "TD n°4 correction",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1_taxg_zcq8jtgbR5NuTiTWalMXZIupAa/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1_taxg_zcq8jtgbR5NuTiTWalMXZIupAa"
+	},
+
+	{
+		"docID": 143,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "TD n°4 correction v2",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1Tysdrjn0C3eju15h75-5PGomTxRSw1m5/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1Tysdrjn0C3eju15h75-5PGomTxRSw1m5"
+	},
+
+	{
+		"docID": 144,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "TD n°4 v3",
+		"catégorie": "Cours",
+		"type": "Fichier",
+		"regard": "https://drive.google.com/file/d/1gqxPk2wuqtM6jSAeIX0ZR3C2qXYrIBqg/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1gqxPk2wuqtM6jSAeIX0ZR3C2qXYrIBqg"
+	},
+
+	{
+		"docID": 145,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "TD n°5 sujet et correction",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1hEVsvIKIfaVuF3bxwj4zHv6sAhLS83NG/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1hEVsvIKIfaVuF3bxwj4zHv6sAhLS83NG"
+	},
+
+	{
+		"docID": 146,
+		"cours": "Mécanique des Milieux Continues",
+		"title": "TD n°6 sujet et correction",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1xF9toinTiMuXzgnBKi0Sa2cEJICP1AsO/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1xF9toinTiMuXzgnBKi0Sa2cEJICP1AsO"
 	}
+
+
 ]
