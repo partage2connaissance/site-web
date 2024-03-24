@@ -1013,7 +1013,7 @@
 	{
 		"docID": 101,
 		"cours": "Physique des Matériaux Solides",
-		"title": "sujet n°7 avec énoncé correction",
+		"title": "sujet n°8 avec énoncé correction",
 		"catégorie": "Partiel",
 		"type": "pdf",
 		"regard": "https://drive.google.com/file/d/1dF9CCEHutulAX1blYOmqfPMBR6fapY0N/view?usp=drive_link", 
@@ -1023,10 +1023,240 @@
 	{
 		"docID": 102,
 		"cours": "Physique des Matériaux Solides",
-		"title": "sujet n°7 avec énoncé correction",
+		"title": "Etude de cas liées au cours",
 		"catégorie": "TD",
 		"type": "pdf",
-		"regard": "https://drive.google.com/file/d/1dF9CCEHutulAX1blYOmqfPMBR6fapY0N/view?usp=drive_link", 
-		"download": "https://drive.google.com/uc?export=download&id=1dF9CCEHutulAX1blYOmqfPMBR6fapY0N"
+		"regard": "https://drive.google.com/file/d/1v7udJ_StXjZ9KvQaUM2r0mR7QHvmWR1M/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1v7udJ_StXjZ9KvQaUM2r0mR7QHvmWR1M"
+	},
+
+	{
+		"docID": 103,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Réseaux réciproques, énoncé et correction",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1r4gJLGhK4yQlCMrbfN-NXU-3UMqKRGqT/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1r4gJLGhK4yQlCMrbfN-NXU-3UMqKRGqT"
+	},
+
+	{
+		"docID": 104,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Réseaux réciproques, énoncé et correction v2",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1FFYqYLPk3pIBwZVMiIHpcY7PMOLAwK91/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1FFYqYLPk3pIBwZVMiIHpcY7PMOLAwK91"
+	},
+
+	{
+		"docID": 105,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Réseaux réciproques, énoncé et correction v3",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/11eZwKCqufmiL78SlPfjeo6BbAjals0AU/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=11eZwKCqufmiL78SlPfjeo6BbAjals0AU"
+	},
+
+	{
+		"docID": 106,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Diffraction des rayons X, énoncé et correction",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1rqMr9wRjMdeLAfMrRMSdhlyZUW1va1XI/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1rqMr9wRjMdeLAfMrRMSdhlyZUW1va1XI"
+	},
+
+	{
+		"docID": 107,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Diffraction des rayons X, énoncé et correction v2",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1nepcbLGoiJhun-l25CEKCbeCf21cKu3m/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1nepcbLGoiJhun-l25CEKCbeCf21cKu3m"
+	},
+
+	{
+		"docID": 108,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Diffraction des rayons X, énoncé et correction v3",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1Yo0qLut74oz0eKbO67MOysx8PK5UTGBk/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1Yo0qLut74oz0eKbO67MOysx8PK5UTGBk"
+	},
+
+	{
+		"docID": 109,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Propriétés du lithium, énoncé et correction",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1Tnjfqpgjw49ePi7At0ABLS8VQUzdzhAu/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1Tnjfqpgjw49ePi7At0ABLS8VQUzdzhAu"
+	},
+
+	{
+		"docID": 110,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Propriétés du lithium, énoncé et correction v2",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "hhttps://drive.google.com/file/d/1KVxiXQislgKLWcU6DxySlUOommrZgKof/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1KVxiXQislgKLWcU6DxySlUOommrZgKof"
+	},
+
+	{
+		"docID": 111,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Microscope à effet tunnel, énoncé et correction",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1gqDCMXu4zDQEpj7JHs25EA4p0Wvr9MQ3/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1gqDCMXu4zDQEpj7JHs25EA4p0Wvr9MQ3"
+	},
+
+	{
+		"docID": 112,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Microscope à effet tunnel, énoncé et correction v2",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/10X8JVndKKvkgqYMCBapf2OGAXsuGcH87/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=10X8JVndKKvkgqYMCBapf2OGAXsuGcH87"
+	},
+
+	{
+		"docID": 113,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Le rayonnement du corps noir, énoncé",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1x827xbOf76X5bd-RgHXQJPxaWZqU6OsI/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1x827xbOf76X5bd-RgHXQJPxaWZqU6OsI"
+	},
+
+	{
+		"docID": 114,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Le rayonnement du corps noir, énoncé et correction v2",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/16bgR977ao4epqj23lLaVu8PR_s2oF362/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=16bgR977ao4epqj23lLaVu8PR_s2oF362"
+	},
+
+	{
+		"docID": 115,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Le rayonnement du corps noir, énoncé et correction v3",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1LxT2ieaZ19TY1Pl2MsuIcWNeC413n540/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1LxT2ieaZ19TY1Pl2MsuIcWNeC413n540"
+	},
+
+	{
+		"docID": 116,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Le carbone sous toutes ses formes, énoncé et correction",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1b-tlRGq-km-tAdkLkHiajXQ8UNPIXE2a/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1b-tlRGq-km-tAdkLkHiajXQ8UNPIXE2a"
+	},
+
+	{
+		"docID": 117,
+		"cours": "Physique des Matériaux Solides",
+		"title": "TD 1.7, énoncé et correction",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1OwBhUNK1JxB-ma9uXykb7AJt_s9FmU1o/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1OwBhUNK1JxB-ma9uXykb7AJt_s9FmU1o"
+	},
+
+	{
+		"docID": 117,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Article: On pense tous quantique",
+		"catégorie": "Complément",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1QuKP-eMwUsL0s53klL6fajU0Jdvl_LCV/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1QuKP-eMwUsL0s53klL6fajU0Jdvl_LCV"
+	},
+
+	{
+		"docID": 118,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Article: Quantum Theory",
+		"catégorie": "Complément",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1g70L5owaYdDsthlhP-oNMAMcwq2HJXWA/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1g70L5owaYdDsthlhP-oNMAMcwq2HJXWA"
+	},
+
+	{
+		"docID": 119,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Répartition des électrons",
+		"catégorie": "Complément",
+		"type": "Vidéo",
+		"regard": "https://drive.google.com/file/d/13jmX3I27Vw-ifE6GJEl1jpPRBQduNeem/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=13jmX3I27Vw-ifE6GJEl1jpPRBQduNeem"
+	},
+
+	{
+		"docID": 120,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Article: Collision time",
+		"catégorie": "Complément",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1RUeoAWzd-CpGaRNEw6nl9vJuiuKSeeun/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1RUeoAWzd-CpGaRNEw6nl9vJuiuKSeeun"
+	},
+
+	{
+		"docID": 121,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Article: black body",
+		"catégorie": "Complément",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1bMq6rjxJoswmIZx62BaT6zverG0FugJm/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1bMq6rjxJoswmIZx62BaT6zverG0FugJm"
+	},
+
+	{
+		"docID": 122,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Cours de prépa: fonction d'onde et équation de Schrödinger",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1lr0zrxQk8l140-OjJPbvkivX93_u-RjW/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1lr0zrxQk8l140-OjJPbvkivX93_u-RjW"
+	},
+
+	{
+		"docID": 123,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Cours de prépa: Etats instationnaires d'une particule",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1PMYcBsj24tBrawMyuc6GCkEXnZEhbUrO/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1PMYcBsj24tBrawMyuc6GCkEXnZEhbUrO"
+	},
+
+	{
+		"docID": 124,
+		"cours": "Physique des Matériaux Solides",
+		"title": "Cours de prépa: Etats instationnaires d'une particule dans des potentiels constants par morceaux",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1fv_Vy3SZinGjYocIOmujfj5VwFHllEZF/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1fv_Vy3SZinGjYocIOmujfj5VwFHllEZF"
 	}
 ]

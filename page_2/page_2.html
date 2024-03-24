@@ -27,7 +27,7 @@
 </section>
 
 <section id="complementaireSection">
-    <h2>Complémentaire</h2>
+    <h2>Complément</h2>
     <ul id="complementaireList"></ul>
 </section>
 
@@ -51,7 +51,7 @@ function loadTitles() {
         const coursData = matiereData.filter(item => item.catégorie === 'Cours');
         const partielData = matiereData.filter(item => item.catégorie === 'Partiel');
         const tdData = matiereData.filter(item => item.catégorie === 'TD');
-        const complementaireData = matiereData.filter(item => item.catégorie === 'Complémentaire');
+        const complementaireData = matiereData.filter(item => item.catégorie === 'Complément');
 
         // Afficher les titres dans les listes correspondantes
         displayTitles(coursData, 'coursList');
