@@ -72,8 +72,6 @@ function loadTitles() {
 }
 
 // Fonction pour afficher les titres dans une liste HTML spécifique
-// Fonction pour afficher les titres dans une liste HTML spécifique
-// Fonction pour afficher les titres dans une liste HTML spécifique
 function displayTitles(data, listId) {
     const list = document.getElementById(listId);
     data.forEach(item => {
@@ -89,18 +87,22 @@ function displayTitles(data, listId) {
             window.open(item.regard, '_blank');
         };
         
-        // Créer un bouton pour télécharger le fichier
-        const downloadButton = document.createElement('button');
-        downloadButton.textContent = "Téléchargement";
-        downloadButton.classList.add("action-button"); // Ajoutez une classe au bouton
+        // Vérifier si la propriété download n'est pas vide avant de créer le bouton de téléchargement
+        if (item.download) {
+            const downloadButton = document.createElement('button');
+            downloadButton.textContent = "Téléchargement";
+            downloadButton.classList.add("action-button"); // Ajoutez une classe au bouton
+            
+            downloadButton.onclick = function() {
+                window.open(item.download, '_blank');
+            };
+            
+            // Ajouter le bouton de téléchargement uniquement si la propriété download n'est pas vide
+            listItem.appendChild(downloadButton);
+        }
         
-        downloadButton.onclick = function() {
-            window.open(item.download, '_blank');
-        };
-        
-        // Ajouter les boutons à droite du titre
+        // Ajouter le bouton de regarder et le titre à la liste
         listItem.appendChild(regardButton);
-        listItem.appendChild(downloadButton);
         list.appendChild(listItem);
     });
 }
