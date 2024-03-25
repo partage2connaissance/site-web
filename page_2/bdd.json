@@ -1478,7 +1478,196 @@
 		"type": "pdf",
 		"regard": "https://drive.google.com/file/d/1xF9toinTiMuXzgnBKi0Sa2cEJICP1AsO/view?usp=drive_link", 
 		"download": "https://drive.google.com/uc?export=download&id=1xF9toinTiMuXzgnBKi0Sa2cEJICP1AsO"
-	}
+	},
 
+	{
+		"docID": 147,
+		"cours": "Traitement du Signal",
+		"title": "Cours de Yann Gavet",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1QdjiBeZGiJ7JoBvyypfdahfPznH_Ff0t/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1QdjiBeZGiJ7JoBvyypfdahfPznH_Ff0t"
+	},
+
+	{
+		"docID": 148,
+		"cours": "Traitement du Signal",
+		"title": "Cours PowerPoint introduction, Yann Gavet",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1GBDeZB8oSY0Ib2HmOyptd8H4GNN5pMgH/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1GBDeZB8oSY0Ib2HmOyptd8H4GNN5pMgH"
+	},
+
+	{
+		"docID": 149,
+		"cours": "Traitement du Signal",
+		"title": "Cours PowerPoint Music recognition",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1iN5ZqrZgXjVFyxL4W-elo6emJZSAYrPk/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1iN5ZqrZgXjVFyxL4W-elo6emJZSAYrPk"
+	},
+
+	{
+		"docID": 150,
+		"cours": "Traitement du Signal",
+		"title": "Cours PowerPoint Music recognition v2",
+		"catégorie": "Cours",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1xHxjn8FNASx9ihrfKn-e8qlhOsMH50lm/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1xHxjn8FNASx9ihrfKn-e8qlhOsMH50lm"
+	},
+
+	{
+		"docID": 151,
+		"cours": "Traitement du Signal",
+		"title": "Sujet 2017 énoncé",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1-0ygu5R8zEfiGdlk92gPbn-mRF55YIeP/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1-0ygu5R8zEfiGdlk92gPbn-mRF55YIeP"
+	},
+
+	{
+		"docID": 152,
+		"cours": "Traitement du Signal",
+		"title": "Sujet 2014 énoncé et corrigé",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1rk9AflMmxxvINQYkpRrRAZ0HhPh_VJlC/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1rk9AflMmxxvINQYkpRrRAZ0HhPh_VJlC"
+	},
+
+	{
+		"docID": 153,
+		"cours": "Traitement du Signal",
+		"title": "Sujet 2007 énoncé et corrigé",
+		"catégorie": "Partiel",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1_rdWgTFRwPA-XlFMbQpPQVTAG5Kk__dN/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1_rdWgTFRwPA-XlFMbQpPQVTAG5Kk__dN"
+	},
+
+	{
+		"docID": 154,
+		"cours": "Traitement du Signal",
+		"title": "Polycopier des tds 2023",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1pr1rUIFA5OMcSPuxSDhFPlhN3SGYIZxw/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1pr1rUIFA5OMcSPuxSDhFPlhN3SGYIZxw"
+	},
+
+	{
+		"docID": 155,
+		"cours": "Traitement du Signal",
+		"title": "Polycopier des tds 2020",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/16shRi5XipItSHRHBUhTyfej21-XK3Li8/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=16shRi5XipItSHRHBUhTyfej21-XK3Li8"
+	},
+
+	{
+		"docID": 156,
+		"cours": "Traitement du Signal",
+		"title": "Correction TD n°1",
+		"catégorie": "TD",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1Qnav2PoGMolRcUwVZ7cXxlZPQmoxHcb1/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1Qnav2PoGMolRcUwVZ7cXxlZPQmoxHcb1"
+	},
+
+	{
+		"docID": 157,
+		"cours": "Traitement du Signal",
+		"title": "Enoncé TD Music Recognition",
+		"catégorie": "",
+		"type": "pdf",
+		"regard": "https://drive.google.com/file/d/1FE4rwMJqp30KkzP_ZvPI8YijhpaAVVOM/view?usp=drive_link", 
+		"download": "https://drive.google.com/uc?export=download&id=1FE4rwMJqp30KkzP_ZvPI8YijhpaAVVOM"
+	},
+
+	{
+		"docID": 158,
+		"cours": "Traitement du Signal",
+		"title": "Fichier du TP5 v3",
+		"catégorie": "TP",
+		"type": "pdf",
+		"regard": "https://drive.google.com/drive/folders/1ztcOU0N9yISNs3zZN52OpFgY6fVvNYfB?usp=drive_link", 
+		"download": ""
+	},
+
+	{
+		"docID": 147,
+		"cours": "Traitement du Signal",
+		"title": "",
+		"catégorie": "",
+		"type": "pdf",
+		"regard": "", 
+		"download": ""
+	},
+
+	{
+		"docID": 147,
+		"cours": "Traitement du Signal",
+		"title": "",
+		"catégorie": "",
+		"type": "pdf",
+		"regard": "", 
+		"download": ""
+	},
+
+	{
+		"docID": 147,
+		"cours": "Traitement du Signal",
+		"title": "",
+		"catégorie": "",
+		"type": "pdf",
+		"regard": "", 
+		"download": ""
+	},
+
+	{
+		"docID": 147,
+		"cours": "Traitement du Signal",
+		"title": "",
+		"catégorie": "",
+		"type": "pdf",
+		"regard": "", 
+		"download": ""
+	},
+
+	{
+		"docID": 147,
+		"cours": "Traitement du Signal",
+		"title": "",
+		"catégorie": "",
+		"type": "pdf",
+		"regard": "", 
+		"download": ""
+	},
+
+	{
+		"docID": 147,
+		"cours": "Traitement du Signal",
+		"title": "",
+		"catégorie": "",
+		"type": "pdf",
+		"regard": "", 
+		"download": ""
+	},
+
+	{
+		"docID": 147,
+		"cours": "Traitement du Signal",
+		"title": "",
+		"catégorie": "",
+		"type": "pdf",
+		"regard": "", 
+		"download": ""
+	}
 
 ]

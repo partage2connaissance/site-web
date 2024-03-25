@@ -26,6 +26,11 @@
     <ul id="tdList"></ul>
 </section>
 
+<section id="tpSection">
+    <h2>TP</h2>
+    <ul id="tpList"></ul>
+</section>
+
 <section id="complementaireSection">
     <h2>Complément</h2>
     <ul id="complementaireList"></ul>
@@ -51,12 +56,14 @@ function loadTitles() {
         const coursData = matiereData.filter(item => item.catégorie === 'Cours');
         const partielData = matiereData.filter(item => item.catégorie === 'Partiel');
         const tdData = matiereData.filter(item => item.catégorie === 'TD');
+        const tpData = matiereData.filter(item => item.catégorie === 'TP');
         const complementaireData = matiereData.filter(item => item.catégorie === 'Complément');
 
         // Afficher les titres dans les listes correspondantes
         displayTitles(coursData, 'coursList');
         displayTitles(partielData, 'partielList');
         displayTitles(tdData, 'tdList');
+        displayTitles(tpData, 'tpList');
         displayTitles(complementaireData, 'complementaireList');
     })
     .catch(error => {
