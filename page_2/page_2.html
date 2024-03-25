@@ -101,6 +101,19 @@ function displayTitles(data, listId) {
             listItem.appendChild(downloadButton);
         }
 
+        // Créer un bouton pour recharger la page
+        const reloadButton = document.createElement('button');
+        reloadButton.textContent = "Reload";
+        reloadButton.classList.add("action-button"); // Ajoutez une classe au bouton
+        reloadButton.style.float = "left"; // Alignez à gauche
+        
+        reloadButton.onclick = function() {
+            location.reload();
+        };
+        
+        // Ajouter l'élément à la liste
+        listItem.prepend(reloadButton);
+
         // Ajouter l'élément à la liste
         list.appendChild(listItem);
     });
