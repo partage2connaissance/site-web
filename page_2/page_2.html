@@ -87,7 +87,10 @@ function displayTitles(data, listId) {
             window.open(item.regard, '_blank');
         };
         
-        // Vérifier si la propriété download n'est pas vide avant de créer le bouton de téléchargement
+        // Ajouter le bouton de regarder et le titre à la liste
+        listItem.appendChild(regardButton);
+
+        // Ajouter le bouton de téléchargement uniquement si la propriété download n'est pas vide
         if (item.download) {
             const downloadButton = document.createElement('button');
             downloadButton.textContent = "Téléchargement";
@@ -100,9 +103,7 @@ function displayTitles(data, listId) {
             // Ajouter le bouton de téléchargement uniquement si la propriété download n'est pas vide
             listItem.appendChild(downloadButton);
         }
-        
-        // Ajouter le bouton de regarder et le titre à la liste
-        listItem.appendChild(regardButton);
+
         list.appendChild(listItem);
     });
 }
