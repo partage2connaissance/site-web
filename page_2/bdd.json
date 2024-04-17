@@ -1595,78 +1595,80 @@
 		"cours": "Traitement du Signal",
 		"title": "Fichier du TP5 v3",
 		"catégorie": "TP",
-		"type": "pdf",
+		"type": "Fichier",
 		"regard": "https://drive.google.com/drive/folders/1ztcOU0N9yISNs3zZN52OpFgY6fVvNYfB?usp=drive_link", 
 		"download": ""
 	},
 
 	{
-		"docID": 147,
+		"docID": 159,
 		"cours": "Traitement du Signal",
-		"title": "",
-		"catégorie": "",
-		"type": "pdf",
-		"regard": "", 
+		"title": "Fichier du TP5 v2",
+		"catégorie": "TP",
+		"type": "Fichier",
+		"regard": "https://drive.google.com/drive/folders/1Df-ycCEuvvbp44mcKlLPBDNlGBcYbpL1?usp=drive_link", 
 		"download": ""
 	},
 
 	{
-		"docID": 147,
+		"docID": 160,
 		"cours": "Traitement du Signal",
-		"title": "",
-		"catégorie": "",
-		"type": "pdf",
-		"regard": "", 
+		"title": "Fichier du TP5 v1",
+		"catégorie": "TP",
+		"type": "Fichier",
+		"regard": "https://drive.google.com/drive/folders/1HVyN33VlKXhF784YCq9YMUWPqLJMnyE2?usp=drive_link", 
 		"download": ""
 	},
 
 	{
-		"docID": 147,
+		"docID": 161,
 		"cours": "Traitement du Signal",
-		"title": "",
+		"title": "Fichier du TP4 v5",
 		"catégorie": "",
-		"type": "pdf",
-		"regard": "", 
+		"type": "Fichier",
+		"regard": "https://drive.google.com/drive/folders/1wHticonHhREF2hI3B3vcmF0gSTgd1tnl?usp=drive_link", 
 		"download": ""
 	},
 
 	{
-		"docID": 147,
+		"docID": 162,
 		"cours": "Traitement du Signal",
-		"title": "",
-		"catégorie": "",
-		"type": "pdf",
-		"regard": "", 
+		"title": "Fichier du TP4 v4",
+		"catégorie": "TP",
+		"type": "Fichier",
+		"regard": "https://drive.google.com/drive/folders/1YI5dcKwxjVIQiBnT7zvrrulwDLvGmxgc?usp=drive_link", 
+		"download": ""
+	},
+
+
+
+	{
+		"docID": 163,
+		"cours": "Traitement du Signal",
+		"title": "Fichier du TP4 v3",
+		"catégorie": "TP",
+		"type": "Fichier",
+		"regard": "https://drive.google.com/drive/folders/1UGfu2bapjGZ5IRd2sRaF6ZAvH5H_Y_xz?usp=drive_link", 
 		"download": ""
 	},
 
 	{
-		"docID": 147,
+		"docID": 164,
 		"cours": "Traitement du Signal",
-		"title": "",
-		"catégorie": "",
-		"type": "pdf",
-		"regard": "", 
+		"title": "Fichier du TP4 v2",
+		"catégorie": "TP",
+		"type": "Fichier",
+		"regard": "https://drive.google.com/drive/folders/1gN8I-7C7WSzZDNSdfjok9kOmE4GSAK4M?usp=drive_link", 
 		"download": ""
 	},
 
 	{
-		"docID": 147,
+		"docID": 165,
 		"cours": "Traitement du Signal",
-		"title": "",
-		"catégorie": "",
+		"title": "Fichier du TP4 v1",
+		"catégorie": "TP",
 		"type": "pdf",
-		"regard": "", 
-		"download": ""
-	},
-
-	{
-		"docID": 147,
-		"cours": "Traitement du Signal",
-		"title": "",
-		"catégorie": "",
-		"type": "pdf",
-		"regard": "", 
+		"regard": "https://drive.google.com/drive/folders/1TxOvcQiP6T2K8lnDwve-CgUbqCrYIrw-?usp=drive_link", 
 		"download": ""
 	}
 
